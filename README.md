@@ -1,6 +1,6 @@
 Linux programozási feladat.
 
-A választott feladatomnak a lényege, hogy egy átlalam kiválasztott zene dalszövegét megjelenítse a képernyőn. A sikeres lefutáshoz két paraméterre van szükség. 
+A választott feladatomnak a lényege, hogy egy általam kiválasztott zene dalszövegét megjelenítse a képernyőn. A sikeres lefutáshoz két paraméterre van szükség. 
 Ismerni kell a dal előadóját, illetve a zene pontos címét is. A program leginkább külföldi zenéknek a szövegét képes megjeleníteni, sajnos magyar dalszövegeket a tesztelés során nem sikerült kiíratni a képernyőre. 
 A program Bash scriptben lett megírva és a JSON kezelésére a python áll rendelkezésre.
 

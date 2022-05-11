@@ -11,8 +11,10 @@ A teszteléshez a szükséges jogosultságokat meg kell adni. Ezt a CHMOD 775 pa
 2. ./zeneszovegek.sh -s eloado -d cim
 
 Futtatási segédlet:
--s: ide tartozik a szám előadója
--d: ide tartozik a szám címe
+
+  -s: ide tartozik a szám előadója
+  
+  -d: ide tartozik a szám címe
 
 Példa egy valós futtatásra: 
 

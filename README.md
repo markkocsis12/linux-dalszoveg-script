@@ -7,8 +7,8 @@ A program Bash scriptben lett megírva és a JSON kezelésére a python áll ren
 Tesztelés:
 A teszteléshez a szükséges jogosultságokat meg kell adni. Ezt a CHMOD 775 paranccsal tudjuk megtenni.
 
-1. chmod 775 zenekereso.sh
-2. ./zenekereso -s eloado -d cim
+1. chmod 775 zeneszovegek.sh
+2. ./zeneszovegek.sh -s eloado -d cim
 
 Futtatási segédlet:
 -s: ide tartozik a szám előadója
@@ -16,5 +16,5 @@ Futtatási segédlet:
 
 Példa egy valós futtatásra: 
 
-1. chmod 775 zenekereso.sh
-2. ./zenekereso -s Adele -d Easy On Me
+1. chmod 775 zeneszovegek.sh
+2. ./zeneszovegek.sh -s Adele -d Easy On Me
